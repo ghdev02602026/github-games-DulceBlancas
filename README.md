@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://githubschool.github.io/github-games/
+You can play the game at:https://github.com/ghdev02602026/github-games-DulceBlancas/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
